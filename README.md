@@ -1,3 +1,5 @@
+# Random message generator / data centre outage notifcation
+
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
