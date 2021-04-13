@@ -21,7 +21,7 @@ const generateRandomOutage = () => {
    }
 let outageNotifcation = `Dear Customer, we are currently experiencing issues with our: ${messageArray[0]}. The current status of our ${messageArray[0]} is: ${messageArray[1]}. The root cause of this failure is: ${messageArray[2]}. We advice that you ${messageArray[3]}.`
  
-   return outageNotifcation
+return outageNotifcation
  };
  
 console.log(generateRandomOutage());
